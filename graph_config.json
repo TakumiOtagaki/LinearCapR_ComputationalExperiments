@@ -1,0 +1,53 @@
+{
+  "output_root": "graphs",
+  "runtime_memory_input_dirs": [
+    "result/time_memory/wisteria_20251017_1212",
+    "result/time_memory/wisteria_20251021_1521",
+    "result/time_memory/capr_cubic"
+  ],
+  "runtime_memory_include_capr_cubic": true,
+  "runtime_memory_default_sample_pct": 100,
+  "runtime_memory_dataset_sample_pct": {
+    "bprna": 100
+  },
+  "roc_curves_csv": "result/bpRNA_multifasta/ROC_analysis/roc_curves.csv",
+  "macro_auc_csv": "result/bpRNA_multifasta/ROC_analysis/macro_auc.csv",
+  "roc_curves_longrange_csv": "result/bpRNA_multifasta/ROC_analysis/roc_curves_longrange.csv",
+  "macro_auc_longrange_csv": "result/bpRNA_multifasta/ROC_analysis/macro_auc_longrange.csv",
+  "accuracy_turner1999_allowed_energies": ["turner1999"],
+  "accuracy_turner1999_parameters": [50, 100, 200, 300],
+  "accuracy_turner1999_longrange_allowed_energies": ["turner1999"],
+  "accuracy_turner1999_longrange_parameters": [50, 100, 200, 300],
+  "accuracy_turner1999_longrange_contexts": ["Stem_150+", "Stem_300+"],
+  "beam_sweep_csv": "result/sarscov2/ensemble_energy/default/beam_sweep.csv",
+  "multiloop_unpaired_csv": "data/processed/bprna/bpRNA_structure_labels.csv",
+  "multiloop_unpaired_data_output": "graphs/unpaired_run_lengths",
+  "dataset_summary_csv": null,
+  "accuracy_parameters": [50, 100, 200, 500],
+  "accuracy_contexts": ["S", "H", "B", "I", "M", "E"],
+  "accuracy_longrange_parameters": [50, 100, 200],
+  "longrange_contexts": ["Stem_150+", "Stem_300+"],
+  "runtime_memory_dataset_labels": {
+    "bprna": "bpRNA",
+    "rnacentral": "RNAcentral"
+  },
+  "runtime_memory_preferred_parameters": {
+    "bprna": [50, 100, 200],
+    "rnacentral": [50, 100, 200]
+  },
+  "runtime_memory_lin_energy_groups": {
+    "rnacentral": ["turner1999", "turner2004"]
+  },
+  "dataset_summary_inputs": {
+    "bprna": {
+      "fasta": "data/processed/bprna/bpRNA_multifasta.fasta",
+      "usage": "Accuracy/runtime",
+      "display_name": "bpRNA"
+    },
+    "rnacentral": {
+      "fasta": "data/processed/rnacentral/rnacentral_active_20.fasta",
+      "usage": "Scalability",
+      "display_name": "RNAcentral"
+    }
+  }
+}

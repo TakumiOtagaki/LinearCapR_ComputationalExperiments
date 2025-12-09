@@ -1,0 +1,13 @@
+beam_size,energy_model,g_ensemble
+50,turner1999,-9242.54
+100,turner1999,-9512.88
+200,turner1999,-9659.79
+300,turner1999,-9685.82
+400,turner1999,-9774.01
+500,turner1999,-9808.93
+50,turner2004,-8732.7
+100,turner2004,-8949.7
+200,turner2004,-9101.72
+300,turner2004,-9140.97
+400,turner2004,-9199.34
+500,turner2004,-9201.38

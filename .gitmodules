@@ -1,0 +1,6 @@
+[submodule "LinearCapR"]
+	path = LinearCapR
+	url = git@github.com:hoget157/LinearCapR.git
+[submodule "CapR"]
+	path = CapR
+	url = git@github.com:fukunagatsu/CapR.git

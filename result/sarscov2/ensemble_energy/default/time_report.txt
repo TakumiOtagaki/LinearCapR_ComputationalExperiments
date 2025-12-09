@@ -1,0 +1,25 @@
+mkdir -p failed for path /pjmhome/.config/matplotlib: [Errno 13] Permission denied: '/pjmhome/.config'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-wa6mau4w because there was an issue with the default path (/pjmhome/.config/matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+	Command being timed: "/work/gs58/s58007/app/anaconda3/envs/lincapr/bin/python /work/gs58/s58007/LinCapR_Experiments/scripts/analysis/sarscov2_ensemble_energy.py --fasta /work/gs58/s58007/LinCapR_Experiments/data/processed/sarscov2/NC_045512.RNA.fa --beams 50 100 200 300 400 500 --energy-models turner2004 turner1999 --output-dir /work/gs58/s58007/LinCapR_Experiments/result/sarscov2/ensemble_energy/default"
+	User time (seconds): 6911.39
+	System time (seconds): 47.99
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:56:25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 9528328
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 16620759
+	Voluntary context switches: 4099
+	Involuntary context switches: 12629
+	Swaps: 0
+	File system inputs: 964736
+	File system outputs: 45624
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

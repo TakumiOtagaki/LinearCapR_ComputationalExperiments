@@ -1,0 +1,663 @@
+[2025-10-17 12:12:30] dataset=bprna mode=CapR beam=50
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 50
+Processing:   0%|          | 0/24901 [00:00<?, ?it/s]Processing:   0%|          | 1/24901 [00:00<1:48:21,  3.83it/s]Processing:   0%|          | 80/24901 [00:00<01:30, 273.58it/s]Processing:   0%|          | 123/24901 [00:03<13:38, 30.28it/s]Processing:   1%|          | 200/24901 [00:03<06:58, 58.98it/s]Processing:   2%|▏         | 550/24901 [00:04<02:45, 147.30it/s]Processing:   2%|▏         | 579/24901 [00:05<02:42, 149.30it/s]Processing:   4%|▍         | 965/24901 [00:05<01:13, 326.35it/s]Processing:   5%|▌         | 1334/24901 [00:05<00:49, 477.44it/s]Processing:   6%|▌         | 1479/24901 [00:05<00:43, 534.43it/s]Processing:   6%|▋         | 1575/24901 [00:06<00:44, 526.37it/s]Processing:   7%|▋         | 1647/24901 [00:06<00:52, 446.09it/s]Processing:   7%|▋         | 1720/24901 [00:06<00:52, 444.58it/s]Processing:   7%|▋         | 1773/24901 [00:06<00:57, 404.30it/s]Processing:   8%|▊         | 1898/24901 [00:07<00:55, 415.23it/s]Processing:   9%|▊         | 2126/24901 [00:08<01:45, 215.69it/s]Processing:  10%|█         | 2547/24901 [00:08<00:53, 417.26it/s]Processing:  11%|█         | 2623/24901 [00:10<01:28, 251.99it/s]Processing:  11%|█         | 2678/24901 [00:10<01:29, 248.98it/s]Processing:  12%|█▏        | 3071/24901 [00:10<00:46, 469.53it/s]Processing:  13%|█▎        | 3161/24901 [00:10<00:46, 463.23it/s]Processing:  13%|█▎        | 3237/24901 [00:11<00:53, 405.13it/s]Processing:  14%|█▍        | 3485/24901 [00:11<00:58, 364.92it/s]Processing:  14%|█▍        | 3537/24901 [00:11<00:58, 362.72it/s]Processing:  15%|█▍        | 3637/24901 [00:12<00:53, 399.02it/s]Processing:  15%|█▍        | 3693/24901 [00:12<01:30, 234.58it/s]Processing:  15%|█▌        | 3791/24901 [00:13<01:27, 241.65it/s]Processing:  16%|█▋        | 4048/24901 [00:13<00:48, 428.70it/s]Processing:  17%|█▋        | 4120/24901 [00:14<01:11, 292.05it/s]Processing:  17%|█▋        | 4207/24901 [00:15<02:02, 169.07it/s]Processing:  19%|█▊        | 4617/24901 [00:15<00:51, 394.56it/s]Processing:  19%|█▉        | 4737/24901 [00:16<01:09, 289.03it/s]Processing:  20%|██        | 5067/24901 [00:16<00:45, 437.04it/s]Processing:  21%|██        | 5166/24901 [00:17<01:00, 328.58it/s]Processing:  21%|██        | 5245/24901 [00:18<01:32, 212.92it/s]Processing:  23%|██▎       | 5695/24901 [00:18<00:44, 428.09it/s]Processing:  23%|██▎       | 5800/24901 [00:20<01:34, 202.51it/s]Processing:  26%|██▋       | 6562/24901 [00:21<00:49, 370.26it/s]Processing:  27%|██▋       | 6637/24901 [00:22<01:02, 292.49it/s]Processing:  29%|██▊       | 7124/24901 [00:22<00:36, 484.41it/s]Processing:  29%|██▉       | 7289/24901 [00:23<00:42, 411.13it/s]Processing:  30%|██▉       | 7411/24901 [00:25<01:22, 212.93it/s]Processing:  31%|███       | 7621/24901 [00:25<01:11, 242.59it/s]Processing:  33%|███▎      | 8162/24901 [00:26<00:46, 363.76it/s]Processing:  33%|███▎      | 8235/24901 [00:27<00:56, 294.81it/s]Processing:  36%|███▌      | 8875/24901 [00:29<00:52, 307.39it/s]Processing:  37%|███▋      | 9119/24901 [00:30<00:51, 308.88it/s]Processing:  39%|███▊      | 9614/24901 [00:30<00:39, 388.26it/s]Processing:  39%|███▉      | 9664/24901 [00:31<00:43, 346.79it/s]Processing:  41%|████      | 10248/24901 [00:31<00:25, 569.70it/s]Processing:  42%|████▏     | 10336/24901 [00:31<00:25, 578.05it/s]Processing:  42%|████▏     | 10418/24901 [00:32<00:32, 439.89it/s]Processing:  42%|████▏     | 10480/24901 [00:33<00:55, 260.59it/s]Processing:  43%|████▎     | 10684/24901 [00:34<01:04, 219.04it/s]Processing:  45%|████▍     | 11190/24901 [00:35<00:44, 308.70it/s]Processing:  46%|████▌     | 11471/24901 [00:36<00:44, 303.88it/s]Processing:  46%|████▌     | 11508/24901 [00:36<00:47, 284.60it/s]Processing:  48%|████▊     | 12003/24901 [00:38<00:42, 302.38it/s]Processing:  50%|████▉     | 12331/24901 [00:39<00:39, 317.57it/s]Processing:  50%|████▉     | 12366/24901 [00:39<00:41, 301.20it/s]Processing:  53%|█████▎    | 13169/24901 [00:41<00:34, 343.03it/s]Processing:  54%|█████▍    | 13564/24901 [00:41<00:25, 452.37it/s]Processing:  55%|█████▍    | 13639/24901 [00:42<00:25, 442.65it/s]Processing:  55%|█████▌    | 13702/24901 [00:42<00:30, 369.89it/s]Processing:  58%|█████▊    | 14388/24901 [00:45<00:33, 312.20it/s]Processing:  61%|██████    | 15107/24901 [00:46<00:23, 422.26it/s]Processing:  62%|██████▏   | 15371/24901 [00:46<00:20, 464.84it/s]Processing:  62%|██████▏   | 15431/24901 [00:46<00:24, 393.97it/s]Processing:  64%|██████▎   | 15873/24901 [00:47<00:21, 423.08it/s]Processing:  64%|██████▍   | 15920/24901 [00:48<00:26, 335.98it/s]Processing:  66%|██████▋   | 16532/24901 [00:49<00:15, 532.44it/s]Processing:  67%|██████▋   | 16594/24901 [00:49<00:15, 535.33it/s]Processing:  67%|██████▋   | 16655/24901 [00:49<00:24, 341.68it/s]Processing:  67%|██████▋   | 16700/24901 [00:50<00:31, 258.73it/s]Processing:  68%|██████▊   | 16904/24901 [00:51<00:32, 248.82it/s]Processing:  71%|███████   | 17677/24901 [00:53<00:21, 343.74it/s]Processing:  73%|███████▎  | 18208/24901 [00:54<00:17, 386.60it/s]Processing:  76%|███████▌  | 18846/24901 [00:55<00:13, 462.78it/s]Processing:  76%|███████▌  | 18907/24901 [00:56<00:16, 364.30it/s]Processing:  77%|███████▋  | 19283/24901 [00:57<00:17, 314.82it/s]Processing:  79%|███████▉  | 19717/24901 [00:58<00:12, 403.43it/s]Processing:  81%|████████  | 20131/24901 [00:58<00:09, 508.80it/s]Processing:  81%|████████  | 20200/24901 [00:59<00:11, 395.95it/s]Processing:  84%|████████▎ | 20827/24901 [01:00<00:10, 382.95it/s]Processing:  85%|████████▍ | 21136/24901 [01:01<00:07, 477.87it/s]Processing:  85%|████████▌ | 21256/24901 [01:01<00:09, 401.85it/s]Processing:  87%|████████▋ | 21709/24901 [01:02<00:06, 488.41it/s]Processing:  87%|████████▋ | 21778/24901 [01:02<00:06, 480.35it/s]Processing:  88%|████████▊ | 21839/24901 [01:02<00:06, 465.57it/s]Processing:  89%|████████▉ | 22164/24901 [01:03<00:06, 446.03it/s]Processing:  90%|████████▉ | 22345/24901 [01:04<00:09, 280.28it/s]Processing:  91%|█████████▏| 22747/24901 [01:05<00:05, 416.95it/s]Processing:  92%|█████████▏| 22808/24901 [01:06<00:07, 290.37it/s]Processing:  93%|█████████▎| 23069/24901 [01:06<00:04, 391.35it/s]Processing:  94%|█████████▎| 23337/24901 [01:07<00:04, 355.61it/s]Processing:  95%|█████████▍| 23624/24901 [01:07<00:02, 490.72it/s]Processing:  95%|█████████▌| 23731/24901 [01:07<00:02, 422.54it/s]Processing:  96%|█████████▌| 23892/24901 [01:09<00:04, 249.87it/s]Processing: 100%|█████████▉| 24869/24901 [01:10<00:00, 497.90it/s]Processing: 100%|██████████| 24901/24901 [01:10<00:00, 353.58it/s]
+[2025-10-17 12:13:45] dataset=bprna mode=CapR beam=100
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 100
+Processing:   0%|          | 0/24901 [00:00<?, ?it/s]Processing:   0%|          | 10/24901 [00:00<06:53, 60.16it/s]Processing:   0%|          | 17/24901 [00:00<08:23, 49.40it/s]Processing:   0%|          | 82/24901 [00:00<03:00, 137.41it/s]Processing:   0%|          | 94/24901 [00:10<1:03:17,  6.53it/s]Processing:   1%|          | 200/24901 [00:10<19:39, 20.94it/s] Processing:   2%|▏         | 550/24901 [00:14<07:43, 52.58it/s]Processing:   2%|▏         | 565/24901 [00:14<08:12, 49.46it/s]Processing:   4%|▍         | 965/24901 [00:14<03:04, 129.73it/s]Processing:   4%|▍         | 1053/24901 [00:15<02:42, 146.89it/s]Processing:   6%|▌         | 1424/24901 [00:15<01:30, 260.80it/s]Processing:   6%|▌         | 1512/24901 [00:15<01:22, 284.30it/s]Processing:   6%|▋         | 1592/24901 [00:15<01:16, 303.29it/s]Processing:   7%|▋         | 1662/24901 [00:16<01:47, 216.91it/s]Processing:   7%|▋         | 1720/24901 [00:17<02:02, 188.93it/s]Processing:   7%|▋         | 1760/24901 [00:17<02:03, 187.70it/s]Processing:   8%|▊         | 1898/24901 [00:18<02:20, 163.39it/s]Processing:   9%|▊         | 2126/24901 [00:23<05:17, 71.71it/s] Processing:  10%|█         | 2547/24901 [00:23<02:26, 153.10it/s]Processing:  10%|█         | 2600/24901 [00:27<04:43, 78.57it/s] Processing:  11%|█         | 2647/24901 [00:28<04:53, 75.80it/s]Processing:  13%|█▎        | 3119/24901 [00:28<02:05, 173.50it/s]Processing:  13%|█▎        | 3179/24901 [00:28<02:00, 180.97it/s]Processing:  13%|█▎        | 3235/24901 [00:29<02:14, 160.86it/s]Processing:  14%|█▍        | 3485/24901 [00:31<02:25, 147.70it/s]Processing:  14%|█▍        | 3532/24901 [00:31<02:28, 144.12it/s]Processing:  15%|█▍        | 3637/24901 [00:32<02:30, 141.40it/s]Processing:  15%|█▍        | 3693/24901 [00:34<03:57, 89.35it/s] Processing:  15%|█▌        | 3791/24901 [00:35<03:30, 100.08it/s]Processing:  16%|█▋        | 4048/24901 [00:36<02:21, 147.88it/s]Processing:  17%|█▋        | 4115/24901 [00:38<03:34, 97.02it/s] Processing:  17%|█▋        | 4207/24901 [00:42<06:24, 53.81it/s]Processing:  17%|█▋        | 4223/24901 [00:42<06:17, 54.79it/s]Processing:  19%|█▉        | 4718/24901 [00:43<02:21, 142.36it/s]Processing:  20%|█▉        | 4907/24901 [00:43<01:45, 188.78it/s]Processing:  20%|██        | 5067/24901 [00:44<01:39, 198.36it/s]Processing:  21%|██        | 5108/24901 [00:46<02:59, 110.10it/s]Processing:  21%|██        | 5245/24901 [00:49<04:20, 75.50it/s] Processing:  23%|██▎       | 5695/24901 [00:50<01:54, 167.52it/s]Processing:  23%|██▎       | 5790/24901 [00:54<03:32, 89.87it/s] Processing:  23%|██▎       | 5838/24901 [00:56<04:44, 66.99it/s]Processing:  26%|██▋       | 6562/24901 [00:58<02:12, 138.93it/s]Processing:  26%|██▋       | 6595/24901 [01:00<02:50, 107.33it/s]Processing:  29%|██▉       | 7210/24901 [01:02<01:44, 168.62it/s]Processing:  29%|██▉       | 7260/24901 [01:03<01:51, 157.77it/s]Processing:  30%|██▉       | 7368/24901 [01:09<04:15, 68.54it/s] Processing:  31%|███       | 7621/24901 [01:10<03:11, 90.26it/s]Processing:  33%|███▎      | 8162/24901 [01:12<01:51, 149.58it/s]Processing:  33%|███▎      | 8209/24901 [01:14<02:37, 105.72it/s]Processing:  36%|███▌      | 8875/24901 [01:19<02:13, 120.46it/s]Processing:  37%|███▋      | 9119/24901 [01:21<02:13, 118.37it/s]Processing:  39%|███▊      | 9614/24901 [01:23<01:42, 149.23it/s]Processing:  39%|███▊      | 9638/24901 [01:25<02:02, 125.04it/s]Processing:  41%|████      | 10248/24901 [01:25<01:03, 231.96it/s]Processing:  41%|████▏     | 10322/24901 [01:25<01:02, 234.35it/s]Processing:  42%|████▏     | 10382/24901 [01:27<01:27, 165.64it/s]Processing:  42%|████▏     | 10439/24901 [01:27<01:21, 177.84it/s]Processing:  42%|████▏     | 10485/24901 [01:30<02:58, 80.69it/s] Processing:  43%|████▎     | 10684/24901 [01:34<03:31, 67.30it/s]Processing:  45%|████▍     | 11190/24901 [01:36<01:52, 121.68it/s]Processing:  46%|████▌     | 11471/24901 [01:40<02:16, 98.67it/s] Processing:  46%|████▌     | 11495/24901 [01:40<02:22, 93.99it/s]Processing:  48%|████▊     | 12003/24901 [01:44<01:54, 113.11it/s]Processing:  50%|████▉     | 12331/24901 [01:46<01:43, 121.60it/s]Processing:  50%|████▉     | 12366/24901 [01:47<01:54, 109.64it/s]Processing:  53%|█████▎    | 13169/24901 [01:53<01:34, 123.51it/s]Processing:  54%|█████▍    | 13564/24901 [01:53<01:05, 172.43it/s]Processing:  55%|█████▍    | 13641/24901 [01:54<01:05, 171.36it/s]Processing:  55%|█████▌    | 13700/24901 [01:55<01:23, 134.29it/s]Processing:  58%|█████▊    | 14388/24901 [02:02<01:33, 112.82it/s]Processing:  61%|██████    | 15107/24901 [02:05<01:06, 147.77it/s]Processing:  62%|██████▏   | 15371/24901 [02:06<00:54, 174.93it/s]Processing:  62%|██████▏   | 15416/24901 [02:07<01:08, 137.69it/s]Processing:  64%|██████▎   | 15873/24901 [02:09<00:53, 167.22it/s]Processing:  64%|██████▍   | 15907/24901 [02:11<01:11, 126.39it/s]Processing:  65%|██████▍   | 16129/24901 [02:11<00:52, 166.55it/s]Processing:  66%|██████▋   | 16532/24901 [02:12<00:37, 225.18it/s]Processing:  67%|██████▋   | 16579/24901 [02:12<00:38, 216.02it/s]Processing:  67%|██████▋   | 16632/24901 [02:15<01:10, 117.23it/s]Processing:  67%|██████▋   | 16676/24901 [02:17<01:39, 83.03it/s] Processing:  68%|██████▊   | 16904/24901 [02:20<01:37, 81.65it/s]Processing:  71%|███████   | 17677/24901 [02:24<00:55, 129.89it/s]Processing:  73%|███████▎  | 18208/24901 [02:27<00:46, 145.47it/s]Processing:  76%|███████▌  | 18846/24901 [02:29<00:33, 181.00it/s]Processing:  76%|███████▌  | 18907/24901 [02:32<00:43, 136.35it/s]Processing:  77%|███████▋  | 19283/24901 [02:36<00:49, 112.74it/s]Processing:  79%|███████▉  | 19717/24901 [02:37<00:34, 150.65it/s]Processing:  81%|████████  | 20131/24901 [02:38<00:23, 204.76it/s]Processing:  81%|████████  | 20196/24901 [02:40<00:31, 149.12it/s]Processing:  84%|████████▎ | 20827/24901 [02:45<00:29, 140.18it/s]Processing:  85%|████████▌ | 21256/24901 [02:46<00:22, 165.63it/s]Processing:  86%|████████▌ | 21453/24901 [02:46<00:18, 190.60it/s]Processing:  87%|████████▋ | 21709/24901 [02:48<00:16, 194.96it/s]Processing:  87%|████████▋ | 21767/24901 [02:48<00:16, 184.47it/s]Processing:  88%|████████▊ | 21813/24901 [02:48<00:16, 185.31it/s]Processing:  88%|████████▊ | 21869/24901 [02:49<00:15, 192.31it/s]Processing:  89%|████████▉ | 22164/24901 [02:50<00:15, 177.96it/s]Processing:  90%|████████▉ | 22345/24901 [02:55<00:28, 90.71it/s] Processing:  90%|████████▉ | 22394/24901 [02:55<00:26, 96.01it/s]Processing:  91%|█████████▏| 22747/24901 [02:55<00:11, 181.22it/s]Processing:  92%|█████████▏| 22808/24901 [02:58<00:21, 99.10it/s] Processing:  93%|█████████▎| 23069/24901 [02:59<00:12, 146.00it/s]Processing:  94%|█████████▎| 23337/24901 [03:01<00:11, 135.84it/s]Processing:  95%|█████████▌| 23731/24901 [03:02<00:06, 190.17it/s]Processing:  96%|█████████▌| 23892/24901 [03:06<00:09, 100.99it/s]Processing: 100%|█████████▉| 24869/24901 [03:09<00:00, 201.09it/s]Processing: 100%|██████████| 24901/24901 [03:09<00:00, 131.67it/s]
+[2025-10-17 12:16:54] dataset=bprna mode=CapR beam=200
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 200
+[progress] 50/24901 (0.2%) completed
+[progress] 100/24901 (0.4%) completed
+[progress] 150/24901 (0.6%) completed
+[progress] 200/24901 (0.8%) completed
+[progress] 250/24901 (1.0%) completed
+[progress] 300/24901 (1.2%) completed
+[progress] 350/24901 (1.4%) completed
+[progress] 400/24901 (1.6%) completed
+[progress] 450/24901 (1.8%) completed
+[progress] 500/24901 (2.0%) completed
+[progress] 550/24901 (2.2%) completed
+[progress] 600/24901 (2.4%) completed
+[progress] 650/24901 (2.6%) completed
+[progress] 700/24901 (2.8%) completed
+[progress] 750/24901 (3.0%) completed
+[progress] 800/24901 (3.2%) completed
+[progress] 850/24901 (3.4%) completed
+[progress] 900/24901 (3.6%) completed
+[progress] 950/24901 (3.8%) completed
+[progress] 1000/24901 (4.0%) completed
+[progress] 1050/24901 (4.2%) completed
+[progress] 1100/24901 (4.4%) completed
+[progress] 1150/24901 (4.6%) completed
+[progress] 1200/24901 (4.8%) completed
+[progress] 1250/24901 (5.0%) completed
+[progress] 1300/24901 (5.2%) completed
+[progress] 1350/24901 (5.4%) completed
+[progress] 1400/24901 (5.6%) completed
+[progress] 1450/24901 (5.8%) completed
+[progress] 1500/24901 (6.0%) completed
+[progress] 1550/24901 (6.2%) completed
+[progress] 1600/24901 (6.4%) completed
+[progress] 1650/24901 (6.6%) completed
+[progress] 1700/24901 (6.8%) completed
+[progress] 1750/24901 (7.0%) completed
+[progress] 1800/24901 (7.2%) completed
+[progress] 1850/24901 (7.4%) completed
+[progress] 1900/24901 (7.6%) completed
+[progress] 1950/24901 (7.8%) completed
+[progress] 2000/24901 (8.0%) completed
+[progress] 2050/24901 (8.2%) completed
+[progress] 2100/24901 (8.4%) completed
+[progress] 2150/24901 (8.6%) completed
+[progress] 2200/24901 (8.8%) completed
+[progress] 2250/24901 (9.0%) completed
+[progress] 2300/24901 (9.2%) completed
+[progress] 2350/24901 (9.4%) completed
+[progress] 2400/24901 (9.6%) completed
+[progress] 2450/24901 (9.8%) completed
+[progress] 2500/24901 (10.0%) completed
+[progress] 2550/24901 (10.2%) completed
+[progress] 2600/24901 (10.4%) completed
+[progress] 2650/24901 (10.6%) completed
+[progress] 2700/24901 (10.8%) completed
+[progress] 2750/24901 (11.0%) completed
+[progress] 2800/24901 (11.2%) completed
+[progress] 2850/24901 (11.4%) completed
+[progress] 2900/24901 (11.6%) completed
+[progress] 2950/24901 (11.8%) completed
+[progress] 3000/24901 (12.0%) completed
+[progress] 3050/24901 (12.2%) completed
+[progress] 3100/24901 (12.4%) completed
+[progress] 3150/24901 (12.7%) completed
+[progress] 3200/24901 (12.9%) completed
+[progress] 3250/24901 (13.1%) completed
+[progress] 3300/24901 (13.3%) completed
+[progress] 3350/24901 (13.5%) completed
+[progress] 3400/24901 (13.7%) completed
+[progress] 3450/24901 (13.9%) completed
+[progress] 3500/24901 (14.1%) completed
+[progress] 3550/24901 (14.3%) completed
+[progress] 3600/24901 (14.5%) completed
+[progress] 3650/24901 (14.7%) completed
+[progress] 3700/24901 (14.9%) completed
+[progress] 3750/24901 (15.1%) completed
+[progress] 3800/24901 (15.3%) completed
+[progress] 3850/24901 (15.5%) completed
+[progress] 3900/24901 (15.7%) completed
+[progress] 3950/24901 (15.9%) completed
+[progress] 4000/24901 (16.1%) completed
+[progress] 4050/24901 (16.3%) completed
+[progress] 4100/24901 (16.5%) completed
+[progress] 4150/24901 (16.7%) completed
+[progress] 4200/24901 (16.9%) completed
+[progress] 4250/24901 (17.1%) completed
+[progress] 4300/24901 (17.3%) completed
+[progress] 4350/24901 (17.5%) completed
+[progress] 4400/24901 (17.7%) completed
+[progress] 4450/24901 (17.9%) completed
+[progress] 4500/24901 (18.1%) completed
+[progress] 4550/24901 (18.3%) completed
+[progress] 4600/24901 (18.5%) completed
+[progress] 4650/24901 (18.7%) completed
+[progress] 4700/24901 (18.9%) completed
+[progress] 4750/24901 (19.1%) completed
+[progress] 4800/24901 (19.3%) completed
+[progress] 4850/24901 (19.5%) completed
+[progress] 4900/24901 (19.7%) completed
+[progress] 4950/24901 (19.9%) completed
+[progress] 5000/24901 (20.1%) completed
+[progress] 5050/24901 (20.3%) completed
+[progress] 5100/24901 (20.5%) completed
+[progress] 5150/24901 (20.7%) completed
+[progress] 5200/24901 (20.9%) completed
+[progress] 5250/24901 (21.1%) completed
+[progress] 5300/24901 (21.3%) completed
+[progress] 5350/24901 (21.5%) completed
+[progress] 5400/24901 (21.7%) completed
+[progress] 5450/24901 (21.9%) completed
+[progress] 5500/24901 (22.1%) completed
+[progress] 5550/24901 (22.3%) completed
+[progress] 5600/24901 (22.5%) completed
+[progress] 5650/24901 (22.7%) completed
+[progress] 5700/24901 (22.9%) completed
+[progress] 5750/24901 (23.1%) completed
+[progress] 5800/24901 (23.3%) completed
+[progress] 5850/24901 (23.5%) completed
+[progress] 5900/24901 (23.7%) completed
+[progress] 5950/24901 (23.9%) completed
+[progress] 6000/24901 (24.1%) completed
+[progress] 6050/24901 (24.3%) completed
+[progress] 6100/24901 (24.5%) completed
+[progress] 6150/24901 (24.7%) completed
+[progress] 6200/24901 (24.9%) completed
+[progress] 6250/24901 (25.1%) completed
+[progress] 6300/24901 (25.3%) completed
+[progress] 6350/24901 (25.5%) completed
+[progress] 6400/24901 (25.7%) completed
+[progress] 6450/24901 (25.9%) completed
+[progress] 6500/24901 (26.1%) completed
+[progress] 6550/24901 (26.3%) completed
+[progress] 6600/24901 (26.5%) completed
+[progress] 6650/24901 (26.7%) completed
+[progress] 6700/24901 (26.9%) completed
+[progress] 6750/24901 (27.1%) completed
+[progress] 6800/24901 (27.3%) completed
+[progress] 6850/24901 (27.5%) completed
+[progress] 6900/24901 (27.7%) completed
+[progress] 6950/24901 (27.9%) completed
+[progress] 7000/24901 (28.1%) completed
+[progress] 7050/24901 (28.3%) completed
+[progress] 7100/24901 (28.5%) completed
+[progress] 7150/24901 (28.7%) completed
+[progress] 7200/24901 (28.9%) completed
+[progress] 7250/24901 (29.1%) completed
+[progress] 7300/24901 (29.3%) completed
+[progress] 7350/24901 (29.5%) completed
+[progress] 7400/24901 (29.7%) completed
+[progress] 7450/24901 (29.9%) completed
+[progress] 7500/24901 (30.1%) completed
+[progress] 7550/24901 (30.3%) completed
+[progress] 7600/24901 (30.5%) completed
+[progress] 7650/24901 (30.7%) completed
+[progress] 7700/24901 (30.9%) completed
+[progress] 7750/24901 (31.1%) completed
+[progress] 7800/24901 (31.3%) completed
+[progress] 7850/24901 (31.5%) completed
+[progress] 7900/24901 (31.7%) completed
+[progress] 7950/24901 (31.9%) completed
+[progress] 8000/24901 (32.1%) completed
+[progress] 8050/24901 (32.3%) completed
+[progress] 8100/24901 (32.5%) completed
+[progress] 8150/24901 (32.7%) completed
+[progress] 8200/24901 (32.9%) completed
+[progress] 8250/24901 (33.1%) completed
+[progress] 8300/24901 (33.3%) completed
+[progress] 8350/24901 (33.5%) completed
+[progress] 8400/24901 (33.7%) completed
+[progress] 8450/24901 (33.9%) completed
+[progress] 8500/24901 (34.1%) completed
+[progress] 8550/24901 (34.3%) completed
+[progress] 8600/24901 (34.5%) completed
+[progress] 8650/24901 (34.7%) completed
+[progress] 8700/24901 (34.9%) completed
+[progress] 8750/24901 (35.1%) completed
+[progress] 8800/24901 (35.3%) completed
+[progress] 8850/24901 (35.5%) completed
+[progress] 8900/24901 (35.7%) completed
+[progress] 8950/24901 (35.9%) completed
+[progress] 9000/24901 (36.1%) completed
+[progress] 9050/24901 (36.3%) completed
+[progress] 9100/24901 (36.5%) completed
+[progress] 9150/24901 (36.7%) completed
+[progress] 9200/24901 (36.9%) completed
+[progress] 9250/24901 (37.1%) completed
+[progress] 9300/24901 (37.3%) completed
+[progress] 9350/24901 (37.5%) completed
+[progress] 9400/24901 (37.7%) completed
+[progress] 9450/24901 (38.0%) completed
+[progress] 9500/24901 (38.2%) completed
+[progress] 9550/24901 (38.4%) completed
+[progress] 9600/24901 (38.6%) completed
+[progress] 9650/24901 (38.8%) completed
+[progress] 9700/24901 (39.0%) completed
+[progress] 9750/24901 (39.2%) completed
+[progress] 9800/24901 (39.4%) completed
+[progress] 9850/24901 (39.6%) completed
+[progress] 9900/24901 (39.8%) completed
+[progress] 9950/24901 (40.0%) completed
+[progress] 10000/24901 (40.2%) completed
+[progress] 10050/24901 (40.4%) completed
+[progress] 10100/24901 (40.6%) completed
+[progress] 10150/24901 (40.8%) completed
+[progress] 10200/24901 (41.0%) completed
+[progress] 10250/24901 (41.2%) completed
+[progress] 10300/24901 (41.4%) completed
+[progress] 10350/24901 (41.6%) completed
+[progress] 10400/24901 (41.8%) completed
+[progress] 10450/24901 (42.0%) completed
+[progress] 10500/24901 (42.2%) completed
+[progress] 10550/24901 (42.4%) completed
+[progress] 10600/24901 (42.6%) completed
+[progress] 10650/24901 (42.8%) completed
+[progress] 10700/24901 (43.0%) completed
+[progress] 10750/24901 (43.2%) completed
+[progress] 10800/24901 (43.4%) completed
+[progress] 10850/24901 (43.6%) completed
+[progress] 10900/24901 (43.8%) completed
+[progress] 10950/24901 (44.0%) completed
+[progress] 11000/24901 (44.2%) completed
+[progress] 11050/24901 (44.4%) completed
+[progress] 11100/24901 (44.6%) completed
+[progress] 11150/24901 (44.8%) completed
+[progress] 11200/24901 (45.0%) completed
+[progress] 11250/24901 (45.2%) completed
+[progress] 11300/24901 (45.4%) completed
+[progress] 11350/24901 (45.6%) completed
+[progress] 11400/24901 (45.8%) completed
+[progress] 11450/24901 (46.0%) completed
+[progress] 11500/24901 (46.2%) completed
+[progress] 11550/24901 (46.4%) completed
+[progress] 11600/24901 (46.6%) completed
+[progress] 11650/24901 (46.8%) completed
+[progress] 11700/24901 (47.0%) completed
+[progress] 11750/24901 (47.2%) completed
+[progress] 11800/24901 (47.4%) completed
+[progress] 11850/24901 (47.6%) completed
+[progress] 11900/24901 (47.8%) completed
+[progress] 11950/24901 (48.0%) completed
+[progress] 12000/24901 (48.2%) completed
+[progress] 12050/24901 (48.4%) completed
+[progress] 12100/24901 (48.6%) completed
+[progress] 12150/24901 (48.8%) completed
+[progress] 12200/24901 (49.0%) completed
+[progress] 12250/24901 (49.2%) completed
+[progress] 12300/24901 (49.4%) completed
+[progress] 12350/24901 (49.6%) completed
+[progress] 12400/24901 (49.8%) completed
+[progress] 12450/24901 (50.0%) completed
+[progress] 12500/24901 (50.2%) completed
+[progress] 12550/24901 (50.4%) completed
+[progress] 12600/24901 (50.6%) completed
+[progress] 12650/24901 (50.8%) completed
+[progress] 12700/24901 (51.0%) completed
+[progress] 12750/24901 (51.2%) completed
+[progress] 12800/24901 (51.4%) completed
+[progress] 12850/24901 (51.6%) completed
+[progress] 12900/24901 (51.8%) completed
+[progress] 12950/24901 (52.0%) completed
+[progress] 13000/24901 (52.2%) completed
+[progress] 13050/24901 (52.4%) completed
+[progress] 13100/24901 (52.6%) completed
+[progress] 13150/24901 (52.8%) completed
+[progress] 13200/24901 (53.0%) completed
+[progress] 13250/24901 (53.2%) completed
+[progress] 13300/24901 (53.4%) completed
+[progress] 13350/24901 (53.6%) completed
+[progress] 13400/24901 (53.8%) completed
+[progress] 13450/24901 (54.0%) completed
+[progress] 13500/24901 (54.2%) completed
+[progress] 13550/24901 (54.4%) completed
+[progress] 13600/24901 (54.6%) completed
+[progress] 13650/24901 (54.8%) completed
+[progress] 13700/24901 (55.0%) completed
+[progress] 13750/24901 (55.2%) completed
+[progress] 13800/24901 (55.4%) completed
+[progress] 13850/24901 (55.6%) completed
+[progress] 13900/24901 (55.8%) completed
+[progress] 13950/24901 (56.0%) completed
+[progress] 14000/24901 (56.2%) completed
+[progress] 14050/24901 (56.4%) completed
+[progress] 14100/24901 (56.6%) completed
+[progress] 14150/24901 (56.8%) completed
+[progress] 14200/24901 (57.0%) completed
+[progress] 14250/24901 (57.2%) completed
+[progress] 14300/24901 (57.4%) completed
+[progress] 14350/24901 (57.6%) completed
+[progress] 14400/24901 (57.8%) completed
+[progress] 14450/24901 (58.0%) completed
+[progress] 14500/24901 (58.2%) completed
+[progress] 14550/24901 (58.4%) completed
+[progress] 14600/24901 (58.6%) completed
+[progress] 14650/24901 (58.8%) completed
+[progress] 14700/24901 (59.0%) completed
+[progress] 14750/24901 (59.2%) completed
+[progress] 14800/24901 (59.4%) completed
+[progress] 14850/24901 (59.6%) completed
+[progress] 14900/24901 (59.8%) completed
+[progress] 14950/24901 (60.0%) completed
+[progress] 15000/24901 (60.2%) completed
+[progress] 15050/24901 (60.4%) completed
+[progress] 15100/24901 (60.6%) completed
+[progress] 15150/24901 (60.8%) completed
+[progress] 15200/24901 (61.0%) completed
+[progress] 15250/24901 (61.2%) completed
+[progress] 15300/24901 (61.4%) completed
+[progress] 15350/24901 (61.6%) completed
+[progress] 15400/24901 (61.8%) completed
+[progress] 15450/24901 (62.0%) completed
+[progress] 15500/24901 (62.2%) completed
+[progress] 15550/24901 (62.4%) completed
+[progress] 15600/24901 (62.6%) completed
+[progress] 15650/24901 (62.8%) completed
+[progress] 15700/24901 (63.0%) completed
+[progress] 15750/24901 (63.3%) completed
+[progress] 15800/24901 (63.5%) completed
+[progress] 15850/24901 (63.7%) completed
+[progress] 15900/24901 (63.9%) completed
+[progress] 15950/24901 (64.1%) completed
+[progress] 16000/24901 (64.3%) completed
+[progress] 16050/24901 (64.5%) completed
+[progress] 16100/24901 (64.7%) completed
+[progress] 16150/24901 (64.9%) completed
+[progress] 16200/24901 (65.1%) completed
+[progress] 16250/24901 (65.3%) completed
+[progress] 16300/24901 (65.5%) completed
+[progress] 16350/24901 (65.7%) completed
+[progress] 16400/24901 (65.9%) completed
+[progress] 16450/24901 (66.1%) completed
+[progress] 16500/24901 (66.3%) completed
+[progress] 16550/24901 (66.5%) completed
+[progress] 16600/24901 (66.7%) completed
+[progress] 16650/24901 (66.9%) completed
+[progress] 16700/24901 (67.1%) completed
+[progress] 16750/24901 (67.3%) completed
+[progress] 16800/24901 (67.5%) completed
+[progress] 16850/24901 (67.7%) completed
+[progress] 16900/24901 (67.9%) completed
+[progress] 16950/24901 (68.1%) completed
+[progress] 17000/24901 (68.3%) completed
+[progress] 17050/24901 (68.5%) completed
+[progress] 17100/24901 (68.7%) completed
+[progress] 17150/24901 (68.9%) completed
+[progress] 17200/24901 (69.1%) completed
+[progress] 17250/24901 (69.3%) completed
+[progress] 17300/24901 (69.5%) completed
+[progress] 17350/24901 (69.7%) completed
+[progress] 17400/24901 (69.9%) completed
+[progress] 17450/24901 (70.1%) completed
+[progress] 17500/24901 (70.3%) completed
+[progress] 17550/24901 (70.5%) completed
+[progress] 17600/24901 (70.7%) completed
+[progress] 17650/24901 (70.9%) completed
+[progress] 17700/24901 (71.1%) completed
+[progress] 17750/24901 (71.3%) completed
+[progress] 17800/24901 (71.5%) completed
+[progress] 17850/24901 (71.7%) completed
+[progress] 17900/24901 (71.9%) completed
+[progress] 17950/24901 (72.1%) completed
+[progress] 18000/24901 (72.3%) completed
+[progress] 18050/24901 (72.5%) completed
+[progress] 18100/24901 (72.7%) completed
+[progress] 18150/24901 (72.9%) completed
+[progress] 18200/24901 (73.1%) completed
+[progress] 18250/24901 (73.3%) completed
+[progress] 18300/24901 (73.5%) completed
+[progress] 18350/24901 (73.7%) completed
+[progress] 18400/24901 (73.9%) completed
+[progress] 18450/24901 (74.1%) completed
+[progress] 18500/24901 (74.3%) completed
+[progress] 18550/24901 (74.5%) completed
+[progress] 18600/24901 (74.7%) completed
+[progress] 18650/24901 (74.9%) completed
+[progress] 18700/24901 (75.1%) completed
+[progress] 18750/24901 (75.3%) completed
+[progress] 18800/24901 (75.5%) completed
+[progress] 18850/24901 (75.7%) completed
+[progress] 18900/24901 (75.9%) completed
+[progress] 18950/24901 (76.1%) completed
+[progress] 19000/24901 (76.3%) completed
+[progress] 19050/24901 (76.5%) completed
+[progress] 19100/24901 (76.7%) completed
+[progress] 19150/24901 (76.9%) completed
+[progress] 19200/24901 (77.1%) completed
+[progress] 19250/24901 (77.3%) completed
+[progress] 19300/24901 (77.5%) completed
+[progress] 19350/24901 (77.7%) completed
+[progress] 19400/24901 (77.9%) completed
+[progress] 19450/24901 (78.1%) completed
+[progress] 19500/24901 (78.3%) completed
+[progress] 19550/24901 (78.5%) completed
+[progress] 19600/24901 (78.7%) completed
+[progress] 19650/24901 (78.9%) completed
+[progress] 19700/24901 (79.1%) completed
+[progress] 19750/24901 (79.3%) completed
+[progress] 19800/24901 (79.5%) completed
+[progress] 19850/24901 (79.7%) completed
+[progress] 19900/24901 (79.9%) completed
+[progress] 19950/24901 (80.1%) completed
+[progress] 20000/24901 (80.3%) completed
+[progress] 20050/24901 (80.5%) completed
+[progress] 20100/24901 (80.7%) completed
+[progress] 20150/24901 (80.9%) completed
+[progress] 20200/24901 (81.1%) completed
+[progress] 20250/24901 (81.3%) completed
+[progress] 20300/24901 (81.5%) completed
+[progress] 20350/24901 (81.7%) completed
+[progress] 20400/24901 (81.9%) completed
+[progress] 20450/24901 (82.1%) completed
+[progress] 20500/24901 (82.3%) completed
+[progress] 20550/24901 (82.5%) completed
+[progress] 20600/24901 (82.7%) completed
+[progress] 20650/24901 (82.9%) completed
+[progress] 20700/24901 (83.1%) completed
+[progress] 20750/24901 (83.3%) completed
+[progress] 20800/24901 (83.5%) completed
+[progress] 20850/24901 (83.7%) completed
+[progress] 20900/24901 (83.9%) completed
+[progress] 20950/24901 (84.1%) completed
+[progress] 21000/24901 (84.3%) completed
+[progress] 21050/24901 (84.5%) completed
+[progress] 21100/24901 (84.7%) completed
+[progress] 21150/24901 (84.9%) completed
+[progress] 21200/24901 (85.1%) completed
+[progress] 21250/24901 (85.3%) completed
+[progress] 21300/24901 (85.5%) completed
+[progress] 21350/24901 (85.7%) completed
+[progress] 21400/24901 (85.9%) completed
+[progress] 21450/24901 (86.1%) completed
+[progress] 21500/24901 (86.3%) completed
+[progress] 21550/24901 (86.5%) completed
+[progress] 21600/24901 (86.7%) completed
+[progress] 21650/24901 (86.9%) completed
+[progress] 21700/24901 (87.1%) completed
+[progress] 21750/24901 (87.3%) completed
+[progress] 21800/24901 (87.5%) completed
+[progress] 21850/24901 (87.7%) completed
+[progress] 21900/24901 (87.9%) completed
+[progress] 21950/24901 (88.1%) completed
+[progress] 22000/24901 (88.3%) completed
+[progress] 22050/24901 (88.6%) completed
+[progress] 22100/24901 (88.8%) completed
+[progress] 22150/24901 (89.0%) completed
+[progress] 22200/24901 (89.2%) completed
+[progress] 22250/24901 (89.4%) completed
+[progress] 22300/24901 (89.6%) completed
+[progress] 22350/24901 (89.8%) completed
+[progress] 22400/24901 (90.0%) completed
+[progress] 22450/24901 (90.2%) completed
+[progress] 22500/24901 (90.4%) completed
+[progress] 22550/24901 (90.6%) completed
+[progress] 22600/24901 (90.8%) completed
+[progress] 22650/24901 (91.0%) completed
+[progress] 22700/24901 (91.2%) completed
+[progress] 22750/24901 (91.4%) completed
+[progress] 22800/24901 (91.6%) completed
+[progress] 22850/24901 (91.8%) completed
+[progress] 22900/24901 (92.0%) completed
+[progress] 22950/24901 (92.2%) completed
+[progress] 23000/24901 (92.4%) completed
+[progress] 23050/24901 (92.6%) completed
+[progress] 23100/24901 (92.8%) completed
+[progress] 23150/24901 (93.0%) completed
+[progress] 23200/24901 (93.2%) completed
+[progress] 23250/24901 (93.4%) completed
+[progress] 23300/24901 (93.6%) completed
+[progress] 23350/24901 (93.8%) completed
+[progress] 23400/24901 (94.0%) completed
+[progress] 23450/24901 (94.2%) completed
+[progress] 23500/24901 (94.4%) completed
+[progress] 23550/24901 (94.6%) completed
+[progress] 23600/24901 (94.8%) completed
+[progress] 23650/24901 (95.0%) completed
+[progress] 23700/24901 (95.2%) completed
+[progress] 23750/24901 (95.4%) completed
+[progress] 23800/24901 (95.6%) completed
+[progress] 23850/24901 (95.8%) completed
+[progress] 23900/24901 (96.0%) completed
+[progress] 23950/24901 (96.2%) completed
+[progress] 24000/24901 (96.4%) completed
+[progress] 24050/24901 (96.6%) completed
+[progress] 24100/24901 (96.8%) completed
+[progress] 24150/24901 (97.0%) completed
+[progress] 24200/24901 (97.2%) completed
+[progress] 24250/24901 (97.4%) completed
+[progress] 24300/24901 (97.6%) completed
+[progress] 24350/24901 (97.8%) completed
+[progress] 24400/24901 (98.0%) completed
+[progress] 24450/24901 (98.2%) completed
+[progress] 24500/24901 (98.4%) completed
+[progress] 24550/24901 (98.6%) completed
+[progress] 24600/24901 (98.8%) completed
+[progress] 24650/24901 (99.0%) completed
+[progress] 24700/24901 (99.2%) completed
+[progress] 24750/24901 (99.4%) completed
+[progress] 24800/24901 (99.6%) completed
+[progress] 24850/24901 (99.8%) completed
+[progress] 24900/24901 (100.0%) completed
+[progress] 24901/24901 (100.0%) completed
+[2025-10-17 12:23:46] dataset=bprna mode=CapR beam=300
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 300
+[progress] 500/24901 (2.0%) completed
+[progress] 1000/24901 (4.0%) completed
+[progress] 1500/24901 (6.0%) completed
+[progress] 2000/24901 (8.0%) completed
+[progress] 2500/24901 (10.0%) completed
+[progress] 3000/24901 (12.0%) completed
+[progress] 3500/24901 (14.1%) completed
+[progress] 4000/24901 (16.1%) completed
+[progress] 4500/24901 (18.1%) completed
+[progress] 5000/24901 (20.1%) completed
+[progress] 5500/24901 (22.1%) completed
+[progress] 6000/24901 (24.1%) completed
+[progress] 6500/24901 (26.1%) completed
+[progress] 7000/24901 (28.1%) completed
+[progress] 7500/24901 (30.1%) completed
+[progress] 8000/24901 (32.1%) completed
+[progress] 8500/24901 (34.1%) completed
+[progress] 9000/24901 (36.1%) completed
+[progress] 9500/24901 (38.2%) completed
+[progress] 10000/24901 (40.2%) completed
+[progress] 10500/24901 (42.2%) completed
+[progress] 11000/24901 (44.2%) completed
+[progress] 11500/24901 (46.2%) completed
+[progress] 12000/24901 (48.2%) completed
+[progress] 12500/24901 (50.2%) completed
+[progress] 13000/24901 (52.2%) completed
+[progress] 13500/24901 (54.2%) completed
+[progress] 14000/24901 (56.2%) completed
+[progress] 14500/24901 (58.2%) completed
+[progress] 15000/24901 (60.2%) completed
+[progress] 15500/24901 (62.2%) completed
+[progress] 16000/24901 (64.3%) completed
+[progress] 16500/24901 (66.3%) completed
+[progress] 17000/24901 (68.3%) completed
+[progress] 17500/24901 (70.3%) completed
+[progress] 18000/24901 (72.3%) completed
+[progress] 18500/24901 (74.3%) completed
+[progress] 19000/24901 (76.3%) completed
+[progress] 19500/24901 (78.3%) completed
+[progress] 20000/24901 (80.3%) completed
+[progress] 20500/24901 (82.3%) completed
+[progress] 21000/24901 (84.3%) completed
+[progress] 21500/24901 (86.3%) completed
+[progress] 22000/24901 (88.3%) completed
+[progress] 22500/24901 (90.4%) completed
+[progress] 23000/24901 (92.4%) completed
+[progress] 23500/24901 (94.4%) completed
+[progress] 24000/24901 (96.4%) completed
+[progress] 24500/24901 (98.4%) completed
+[progress] 24901/24901 (100.0%) completed
+[2025-10-17 12:34:33] dataset=bprna mode=CapR beam=400
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 400
+[progress] 500/24901 (2.0%) completed
+[progress] 1000/24901 (4.0%) completed
+[progress] 1500/24901 (6.0%) completed
+[progress] 2000/24901 (8.0%) completed
+[progress] 2500/24901 (10.0%) completed
+[progress] 3000/24901 (12.0%) completed
+[progress] 3500/24901 (14.1%) completed
+[progress] 4000/24901 (16.1%) completed
+[progress] 4500/24901 (18.1%) completed
+[progress] 5000/24901 (20.1%) completed
+[progress] 5500/24901 (22.1%) completed
+[progress] 6000/24901 (24.1%) completed
+[progress] 6500/24901 (26.1%) completed
+[progress] 7000/24901 (28.1%) completed
+[progress] 7500/24901 (30.1%) completed
+[progress] 8000/24901 (32.1%) completed
+[progress] 8500/24901 (34.1%) completed
+[progress] 9000/24901 (36.1%) completed
+[progress] 9500/24901 (38.2%) completed
+[progress] 10000/24901 (40.2%) completed
+[progress] 10500/24901 (42.2%) completed
+[progress] 11000/24901 (44.2%) completed
+[progress] 11500/24901 (46.2%) completed
+[progress] 12000/24901 (48.2%) completed
+[progress] 12500/24901 (50.2%) completed
+[progress] 13000/24901 (52.2%) completed
+[progress] 13500/24901 (54.2%) completed
+[progress] 14000/24901 (56.2%) completed
+[progress] 14500/24901 (58.2%) completed
+[progress] 15000/24901 (60.2%) completed
+[progress] 15500/24901 (62.2%) completed
+[progress] 16000/24901 (64.3%) completed
+[progress] 16500/24901 (66.3%) completed
+[progress] 17000/24901 (68.3%) completed
+[progress] 17500/24901 (70.3%) completed
+[progress] 18000/24901 (72.3%) completed
+[progress] 18500/24901 (74.3%) completed
+[progress] 19000/24901 (76.3%) completed
+[progress] 19500/24901 (78.3%) completed
+[progress] 20000/24901 (80.3%) completed
+[progress] 20500/24901 (82.3%) completed
+[progress] 21000/24901 (84.3%) completed
+[progress] 21500/24901 (86.3%) completed
+[progress] 22000/24901 (88.3%) completed
+[progress] 22500/24901 (90.4%) completed
+[progress] 23000/24901 (92.4%) completed
+[progress] 23500/24901 (94.4%) completed
+[progress] 24000/24901 (96.4%) completed
+[progress] 24500/24901 (98.4%) completed
+[progress] 24901/24901 (100.0%) completed
+[2025-10-17 12:49:35] dataset=bprna mode=CapR beam=500
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 500
+[progress] 500/24901 (2.0%) completed
+[progress] 1000/24901 (4.0%) completed
+[progress] 1500/24901 (6.0%) completed
+[progress] 2000/24901 (8.0%) completed
+[progress] 2500/24901 (10.0%) completed
+[progress] 3000/24901 (12.0%) completed
+[progress] 3500/24901 (14.1%) completed
+[progress] 4000/24901 (16.1%) completed
+[progress] 4500/24901 (18.1%) completed
+[progress] 5000/24901 (20.1%) completed
+[progress] 5500/24901 (22.1%) completed
+[progress] 6000/24901 (24.1%) completed
+[progress] 6500/24901 (26.1%) completed
+[progress] 7000/24901 (28.1%) completed
+[progress] 7500/24901 (30.1%) completed
+[progress] 8000/24901 (32.1%) completed
+[progress] 8500/24901 (34.1%) completed
+[progress] 9000/24901 (36.1%) completed
+[progress] 9500/24901 (38.2%) completed
+[progress] 10000/24901 (40.2%) completed
+[progress] 10500/24901 (42.2%) completed
+[progress] 11000/24901 (44.2%) completed
+[progress] 11500/24901 (46.2%) completed
+[progress] 12000/24901 (48.2%) completed
+[progress] 12500/24901 (50.2%) completed
+[progress] 13000/24901 (52.2%) completed
+[progress] 13500/24901 (54.2%) completed
+[progress] 14000/24901 (56.2%) completed
+[progress] 14500/24901 (58.2%) completed
+[progress] 15000/24901 (60.2%) completed
+[progress] 15500/24901 (62.2%) completed
+[progress] 16000/24901 (64.3%) completed
+[progress] 16500/24901 (66.3%) completed
+[progress] 17000/24901 (68.3%) completed
+[progress] 17500/24901 (70.3%) completed
+[progress] 18000/24901 (72.3%) completed
+[progress] 18500/24901 (74.3%) completed
+[progress] 19000/24901 (76.3%) completed
+[progress] 19500/24901 (78.3%) completed
+[progress] 20000/24901 (80.3%) completed
+[progress] 20500/24901 (82.3%) completed
+[progress] 21000/24901 (84.3%) completed
+[progress] 21500/24901 (86.3%) completed
+[progress] 22000/24901 (88.3%) completed
+[progress] 22500/24901 (90.4%) completed
+[progress] 23000/24901 (92.4%) completed
+[progress] 23500/24901 (94.4%) completed
+[progress] 24000/24901 (96.4%) completed
+[progress] 24500/24901 (98.4%) completed
+[progress] 24901/24901 (100.0%) completed

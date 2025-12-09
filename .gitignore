@@ -1,0 +1,35 @@
+data/raw/bprna/bpRNA_1m_90
+data/raw/bprna/bpRNA_1m_90.zip
+data/raw/bprna/bpRNA*.zip
+data/raw/bprna/bpRNA_1m_90.fasta
+data/raw/bprna/bpRNA
+.DS_Store
+*.dbn
+data/processed/vienna_params
+data/raw/rnacentral
+
+data/processed/bprna/
+result/time_memory/tmp
+
+
+__pycache__
+.pycache
+.python-version
+
+data/processed/16SrRNA/16s_rRNA_structure_labels.json
+result/16SrRNA/LinCapR/*.csv
+result/16SrRNA/CapR/*.csv
+result/bprna_old/CapR/*.csv
+result/bprna_old/LinCapR/*.csv
+result/bprna_old/ROC_analysis/roc_auc_results.json
+
+# new results:
+result/bpRNA_multifasta/LinCapR/turner1999
+result/bpRNA_multifasta/LinCapR/turner2004
+result/bpRNA_multifasta/CapR
+
+# 圧縮したファイルたち
+result_bprna_profiles.tar.zst
+
+# notebook
+notebooks/.ipynb_checkpoints/

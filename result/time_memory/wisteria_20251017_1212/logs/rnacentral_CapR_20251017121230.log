@@ -1,0 +1,8 @@
+[2025-10-17 12:12:30] dataset=rnacentral mode=CapR beam=50
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 50
+Processing:   0%|          | 0/20 [00:00<?, ?it/s]Processing:   5%|▌         | 1/20 [00:04<01:26,  4.54s/it]Processing:  10%|█         | 2/20 [00:05<00:45,  2.54s/it]Processing:  15%|█▌        | 3/20 [00:07<00:36,  2.14s/it]Processing:  20%|██        | 4/20 [00:11<00:46,  2.90s/it]Processing:  25%|██▌       | 5/20 [00:13<00:38,  2.58s/it]Processing:  30%|███       | 6/20 [00:15<00:33,  2.41s/it]Processing:  35%|███▌      | 7/20 [00:22<00:51,  3.98s/it]Processing:  40%|████      | 8/20 [00:29<00:58,  4.88s/it]Processing:  45%|████▌     | 9/20 [00:39<01:10,  6.39s/it]Processing:  50%|█████     | 10/20 [00:57<01:41, 10.18s/it]Processing:  55%|█████▌    | 11/20 [01:18<02:00, 13.35s/it]Processing:  60%|██████    | 12/20 [01:19<01:16,  9.58s/it]Processing:  65%|██████▌   | 13/20 [02:10<02:35, 22.17s/it]Processing:  70%|███████   | 14/20 [02:27<02:04, 20.67s/it]Processing:  75%|███████▌  | 15/20 [02:59<01:59, 23.91s/it]Processing:  80%|████████  | 16/20 [03:44<02:01, 30.31s/it]Processing:  85%|████████▌ | 17/20 [05:37<02:45, 55.15s/it]Processing:  90%|█████████ | 18/20 [06:47<01:59, 59.75s/it]Processing:  95%|█████████▌| 19/20 [10:07<01:41, 101.83s/it]Processing: 100%|██████████| 20/20 [12:00<00:00, 105.30s/it]Processing: 100%|██████████| 20/20 [12:00<00:00, 36.05s/it] 
+[2025-10-17 12:24:35] dataset=rnacentral mode=CapR beam=100
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 100
+[progress] 20/20 (100.0%) completed
+[2025-10-17 13:03:54] dataset=rnacentral mode=CapR beam=200
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 200

@@ -1,0 +1,52 @@
+{
+  "output_root": "graphs",
+  "runtime_memory_input_dirs": [
+    "result/time_memory/<runtime_memory_dir_1>",
+    "result/time_memory/<runtime_memory_dir_2>"
+  ],
+  "roc_curves_csv": "result/bpRNA_multifasta/ROC_analysis/roc_curves.csv",
+  "macro_auc_csv": "result/bpRNA_multifasta/ROC_analysis/macro_auc.csv",
+  "roc_curves_longrange_csv": "result/bpRNA_multifasta/ROC_analysis/roc_curves_longrange.csv",
+  "macro_auc_longrange_csv": "result/bpRNA_multifasta/ROC_analysis/macro_auc_longrange.csv",
+  "beam_sweep_csv": "result/sarscov2/beam_sweep.csv",
+  "multiloop_unpaired_csv": "data/processed/bprna/bpRNA_structure_labels.csv",
+  "multiloop_unpaired_data_output": "result/bprna/unpaired_run_lengths",
+  "dataset_summary_csv": "data/processed/dataset_summary.csv",
+  "accuracy_parameters": [50, 100, 200, 300, 500],
+  "accuracy_contexts": ["S", "H", "B", "I", "M", "E"],
+  "accuracy_context_labels": {
+    "S": "Stem",
+    "H": "Hairpin",
+    "B": "Bulge",
+    "I": "Internal",
+    "M": "Multi-loop",
+    "E": "Exterior"
+  },
+  "longrange_contexts": ["Stem_150+", "Stem_300+", "Stem_450+"],
+  "accuracy_longrange_parameters": [50, 100, 200, 300, 500],
+  "longrange_context_labels": {
+    "Stem_150+": "Stem ≥150 nt",
+    "Stem_300+": "Stem ≥300 nt",
+    "Stem_450+": "Stem ≥450 nt"
+  },
+  "runtime_memory_dataset_labels": {
+    "bprna": "bpRNA",
+    "rnacentral": "RNAcentral"
+  },
+  "runtime_memory_preferred_parameters": {
+    "bprna": [50, 100, 200, 300, 400, 500],
+    "rnacentral": [50, 100, 200, 300, 400, 500]
+  },
+  "dataset_summary_inputs": {
+    "bprna": {
+      "fasta": "data/processed/bprna/bpRNA_multifasta.fasta",
+      "usage": "Accuracy/runtime",
+      "display_name": "bpRNA"
+    },
+    "rnacentral": {
+      "fasta": "data/processed/rnacentral/rnacentral_active_20.fasta",
+      "usage": "Scalability",
+      "display_name": "RNAcentral"
+    }
+  }
+}

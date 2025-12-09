@@ -1,0 +1,167 @@
+Starting bpRNA AUC analysis...
+Date: Fri Aug  8 22:19:04 JST 2025
+Working directory: /work/02/gs58/s58007/LinCapR_Experiments
+Number of CPUs: 1
+mkdir -p failed for path /pjmhome/.config/matplotlib: [Errno 13] Permission denied: '/pjmhome/.config'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-14jz9br3 because there was an issue with the default path (/pjmhome/.config/matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+INFO: ================================================================================
+INFO: Distance thresholds for long-range base pairs: [150]
+INFO: ================================================================================
+INFO: Loading ground truth from: data/processed/bprna/bpRNA_structure_labels.json
+INFO: Loaded 24901 sequences
+INFO: Analyzing 24901 sequences...
+INFO:   Bulge (B): 119,323 positions (3.0%) in 12,674 sequences (50.9%)
+INFO:   Exterior (E): 480,343 positions (12.2%) in 24,613 sequences (98.8%)
+INFO:   Hairpin (H): 773,516 positions (19.7%) in 24,890 sequences (100.0%)
+INFO:   Internal (I): 449,265 positions (11.4%) in 15,725 sequences (63.2%)
+INFO:   Multibranch (M): 259,410 positions (6.6%) in 9,298 sequences (37.3%)
+INFO:   Stem (S): 1,847,818 positions (47.0%) in 24,901 sequences (100.0%)
+INFO: Using 50 processes for parallel processing...
+Processing sequences:   0%|          | 0/24901 [00:00<?, ?it/s]Processing sequences:   0%|          | 1/24901 [00:12<89:14:44, 12.90s/it]Processing sequences:   2%|▏         | 497/24901 [00:13<07:29, 54.32it/s] Processing sequences:   4%|▍         | 993/24901 [00:13<03:04, 129.37it/s]Processing sequences:   6%|▌         | 1418/24901 [00:13<01:48, 216.32it/s]Processing sequences:   7%|▋         | 1799/24901 [00:13<01:12, 318.00it/s]Processing sequences:   9%|▊         | 2132/24901 [00:13<00:53, 422.36it/s]Processing sequences:  10%|█         | 2605/24901 [00:13<00:36, 602.63it/s]Processing sequences:  12%|█▏        | 2977/24901 [00:13<00:27, 786.82it/s]Processing sequences:  15%|█▍        | 3721/24901 [00:14<00:15, 1332.61it/s]Processing sequences:  18%|█▊        | 4465/24901 [00:14<00:11, 1843.24it/s]Processing sequences:  20%|█▉        | 4961/24901 [00:14<00:09, 2041.89it/s]Processing sequences:  22%|██▏       | 5581/24901 [00:14<00:07, 2442.61it/s]Processing sequences:  24%|██▍       | 5965/24901 [00:14<00:08, 2182.03it/s]Processing sequences:  25%|██▌       | 6281/24901 [00:25<02:15, 137.14it/s] Processing sequences:  26%|██▌       | 6449/24901 [00:25<01:59, 154.85it/s]Processing sequences:  27%|██▋       | 6697/24901 [00:25<01:34, 193.19it/s]Processing sequences:  28%|██▊       | 6945/24901 [00:25<01:12, 247.03it/s]Processing sequences:  29%|██▊       | 7150/24901 [00:25<00:58, 303.80it/s]Processing sequences:  29%|██▉       | 7339/24901 [00:26<00:51, 337.86it/s]Processing sequences:  30%|███       | 7565/24901 [00:26<00:39, 439.63it/s]Processing sequences:  32%|███▏      | 8061/24901 [00:26<00:22, 761.18it/s]Processing sequences:  33%|███▎      | 8314/24901 [00:26<00:18, 897.41it/s]Processing sequences:  36%|███▌      | 8929/24901 [00:26<00:11, 1399.37it/s]Processing sequences:  38%|███▊      | 9425/24901 [00:27<00:12, 1252.55it/s]Processing sequences:  43%|████▎     | 10665/24901 [00:27<00:06, 2284.50it/s]Processing sequences:  44%|████▍     | 11024/24901 [00:27<00:05, 2353.10it/s]Processing sequences:  46%|████▌     | 11409/24901 [00:27<00:05, 2519.83it/s]Processing sequences:  47%|████▋     | 11743/24901 [00:27<00:05, 2386.58it/s]Processing sequences:  48%|████▊     | 12037/24901 [00:28<00:05, 2215.17it/s]Processing sequences:  49%|████▉     | 12295/24901 [00:29<00:18, 696.88it/s] Processing sequences:  50%|█████     | 12482/24901 [00:36<01:45, 117.48it/s]Processing sequences:  51%|█████     | 12614/24901 [00:37<01:34, 129.91it/s]Processing sequences:  51%|█████▏    | 12773/24901 [00:37<01:15, 160.62it/s]Processing sequences:  53%|█████▎    | 13145/24901 [00:37<00:44, 262.61it/s]Processing sequences:  54%|█████▍    | 13393/24901 [00:37<00:34, 332.41it/s]Processing sequences:  54%|█████▍    | 13543/24901 [00:38<00:30, 376.63it/s]Processing sequences:  56%|█████▌    | 13889/24901 [00:38<00:19, 576.88it/s]Processing sequences:  57%|█████▋    | 14261/24901 [00:38<00:13, 816.36it/s]Processing sequences:  59%|█████▉    | 14757/24901 [00:38<00:08, 1131.44it/s]Processing sequences:  63%|██████▎   | 15625/24901 [00:38<00:04, 1921.85it/s]Processing sequences:  64%|██████▍   | 15997/24901 [00:38<00:04, 2109.91it/s]Processing sequences:  66%|██████▌   | 16369/24901 [00:38<00:03, 2234.39it/s]Processing sequences:  67%|██████▋   | 16677/24901 [00:39<00:04, 1835.45it/s]Processing sequences:  69%|██████▉   | 17237/24901 [00:39<00:03, 2057.10it/s]Processing sequences:  70%|███████   | 17490/24901 [00:39<00:03, 2033.67it/s]Processing sequences:  71%|███████   | 17733/24901 [00:39<00:03, 2090.14it/s]Processing sequences:  72%|███████▏  | 17968/24901 [00:39<00:04, 1555.53it/s]Processing sequences:  73%|███████▎  | 18229/24901 [00:40<00:08, 832.29it/s] Processing sequences:  74%|███████▍  | 18373/24901 [00:40<00:07, 887.71it/s]Processing sequences:  74%|███████▍  | 18513/24901 [00:41<00:08, 754.64it/s]Processing sequences:  75%|███████▍  | 18625/24901 [00:47<01:12, 86.88it/s] Processing sequences:  75%|███████▌  | 18725/24901 [00:47<01:01, 100.10it/s]Processing sequences:  76%|███████▌  | 18849/24901 [00:48<00:54, 111.74it/s]Processing sequences:  77%|███████▋  | 19097/24901 [00:48<00:31, 184.76it/s]Processing sequences:  78%|███████▊  | 19345/24901 [00:48<00:20, 276.77it/s]Processing sequences:  79%|███████▊  | 19593/24901 [00:49<00:13, 379.34it/s]Processing sequences:  80%|████████  | 19965/24901 [00:49<00:08, 564.02it/s]Processing sequences:  82%|████████▏ | 20461/24901 [00:49<00:04, 922.50it/s]Processing sequences:  84%|████████▎ | 20833/24901 [00:49<00:03, 1119.54it/s]Processing sequences:  86%|████████▌ | 21329/24901 [00:49<00:02, 1530.52it/s]Processing sequences:  87%|████████▋ | 21701/24901 [00:49<00:01, 1732.67it/s]Processing sequences:  88%|████████▊ | 21963/24901 [00:50<00:01, 1544.69it/s]Processing sequences:  90%|████████▉ | 22321/24901 [00:50<00:01, 1535.76it/s]Processing sequences:  91%|█████████ | 22569/24901 [00:50<00:01, 1489.87it/s]Processing sequences:  92%|█████████▏| 22817/24901 [00:50<00:01, 1568.82it/s]Processing sequences:  93%|█████████▎| 23189/24901 [00:50<00:00, 1861.63it/s]Processing sequences:  95%|█████████▍| 23561/24901 [00:50<00:00, 2154.31it/s]Processing sequences:  96%|█████████▌| 23809/24901 [00:51<00:01, 1012.89it/s]Processing sequences:  97%|█████████▋| 24181/24901 [00:51<00:00, 1297.96it/s]Processing sequences:  98%|█████████▊| 24429/24901 [00:52<00:00, 1049.96it/s]Processing sequences:  99%|█████████▉| 24598/24901 [00:52<00:00, 1069.48it/s]Processing sequences:  99%|█████████▉| 24752/24901 [00:52<00:00, 703.16it/s] Processing sequences: 100%|█████████▉| 24869/24901 [00:57<00:00, 120.19it/s]Processing sequences: 100%|██████████| 24901/24901 [00:57<00:00, 433.93it/s]
+INFO: Creating AUC summary table...
+INFO: AUC summary table saved to: result/bprna/ROC_analysis/auc_summary_table.csv
+INFO: Creating AUC boxplots...
+/work/02/gs58/s58007/LinCapR_Experiments/scripts/analysis/bpRNAanalysis/aucroc.py:408: MatplotlibDeprecationWarning: The 'labels' parameter of boxplot() has been renamed 'tick_labels' since Matplotlib 3.9; support for the old name will be dropped in 3.11.
+  bp = plt.boxplot(data_to_plot, labels=labels_to_plot, patch_artist=True)
+INFO: Saved boxplot: result/bprna/ROC_analysis/auc_boxplot_B_Bulge.png
+INFO: Bulge (CapR_span100): mean=0.751, std=0.220, n=12674
+INFO: Bulge (CapR_span200): mean=0.765, std=0.218, n=12674
+INFO: Bulge (CapR_span300): mean=0.767, std=0.218, n=12674
+INFO: Bulge (CapR_span400): mean=0.767, std=0.218, n=12674
+INFO: Bulge (CapR_span500): mean=0.767, std=0.218, n=12674
+INFO: Bulge (LinCapR_b100): mean=0.770, std=0.218, n=12674
+INFO: Bulge (LinCapR_b200): mean=0.771, std=0.218, n=12674
+INFO: Bulge (LinCapR_b300): mean=0.771, std=0.218, n=12674
+INFO: Bulge (LinCapR_b400): mean=0.771, std=0.218, n=12674
+INFO: Bulge (LinCapR_b500): mean=0.771, std=0.218, n=12674
+/work/02/gs58/s58007/LinCapR_Experiments/scripts/analysis/bpRNAanalysis/aucroc.py:408: MatplotlibDeprecationWarning: The 'labels' parameter of boxplot() has been renamed 'tick_labels' since Matplotlib 3.9; support for the old name will be dropped in 3.11.
+  bp = plt.boxplot(data_to_plot, labels=labels_to_plot, patch_artist=True)
+INFO: Saved boxplot: result/bprna/ROC_analysis/auc_boxplot_E_Exterior.png
+INFO: Exterior (CapR_span100): mean=0.931, std=0.123, n=24613
+INFO: Exterior (CapR_span200): mean=0.939, std=0.119, n=24613
+INFO: Exterior (CapR_span300): mean=0.940, std=0.119, n=24613
+INFO: Exterior (CapR_span400): mean=0.940, std=0.118, n=24613
+INFO: Exterior (CapR_span500): mean=0.941, std=0.118, n=24613
+INFO: Exterior (LinCapR_b100): mean=0.940, std=0.119, n=24613
+INFO: Exterior (LinCapR_b200): mean=0.940, std=0.118, n=24613
+INFO: Exterior (LinCapR_b300): mean=0.940, std=0.118, n=24613
+INFO: Exterior (LinCapR_b400): mean=0.940, std=0.118, n=24613
+INFO: Exterior (LinCapR_b500): mean=0.940, std=0.118, n=24613
+/work/02/gs58/s58007/LinCapR_Experiments/scripts/analysis/bpRNAanalysis/aucroc.py:408: MatplotlibDeprecationWarning: The 'labels' parameter of boxplot() has been renamed 'tick_labels' since Matplotlib 3.9; support for the old name will be dropped in 3.11.
+  bp = plt.boxplot(data_to_plot, labels=labels_to_plot, patch_artist=True)
+INFO: Saved boxplot: result/bprna/ROC_analysis/auc_boxplot_H_Hairpin.png
+INFO: Hairpin (CapR_span100): mean=0.885, std=0.152, n=24890
+INFO: Hairpin (CapR_span200): mean=0.895, std=0.144, n=24890
+INFO: Hairpin (CapR_span300): mean=0.896, std=0.143, n=24890
+INFO: Hairpin (CapR_span400): mean=0.896, std=0.143, n=24890
+INFO: Hairpin (CapR_span500): mean=0.897, std=0.143, n=24890
+INFO: Hairpin (LinCapR_b100): mean=0.896, std=0.147, n=24890
+INFO: Hairpin (LinCapR_b200): mean=0.896, std=0.147, n=24890
+INFO: Hairpin (LinCapR_b300): mean=0.896, std=0.147, n=24890
+INFO: Hairpin (LinCapR_b400): mean=0.896, std=0.147, n=24890
+INFO: Hairpin (LinCapR_b500): mean=0.896, std=0.147, n=24890
+/work/02/gs58/s58007/LinCapR_Experiments/scripts/analysis/bpRNAanalysis/aucroc.py:408: MatplotlibDeprecationWarning: The 'labels' parameter of boxplot() has been renamed 'tick_labels' since Matplotlib 3.9; support for the old name will be dropped in 3.11.
+  bp = plt.boxplot(data_to_plot, labels=labels_to_plot, patch_artist=True)
+INFO: Saved boxplot: result/bprna/ROC_analysis/auc_boxplot_I_Internal.png
+INFO: Internal (CapR_span100): mean=0.760, std=0.180, n=15725
+INFO: Internal (CapR_span200): mean=0.773, std=0.177, n=15725
+INFO: Internal (CapR_span300): mean=0.774, std=0.177, n=15725
+INFO: Internal (CapR_span400): mean=0.774, std=0.177, n=15725
+INFO: Internal (CapR_span500): mean=0.774, std=0.177, n=15725
+INFO: Internal (LinCapR_b100): mean=0.781, std=0.176, n=15725
+INFO: Internal (LinCapR_b200): mean=0.782, std=0.176, n=15725
+INFO: Internal (LinCapR_b300): mean=0.782, std=0.176, n=15725
+INFO: Internal (LinCapR_b400): mean=0.782, std=0.176, n=15725
+INFO: Internal (LinCapR_b500): mean=0.782, std=0.176, n=15725
+/work/02/gs58/s58007/LinCapR_Experiments/scripts/analysis/bpRNAanalysis/aucroc.py:408: MatplotlibDeprecationWarning: The 'labels' parameter of boxplot() has been renamed 'tick_labels' since Matplotlib 3.9; support for the old name will be dropped in 3.11.
+  bp = plt.boxplot(data_to_plot, labels=labels_to_plot, patch_artist=True)
+INFO: Saved boxplot: result/bprna/ROC_analysis/auc_boxplot_M_Multibranch.png
+INFO: Multibranch (CapR_span100): mean=0.810, std=0.177, n=9298
+INFO: Multibranch (CapR_span200): mean=0.851, std=0.153, n=9298
+INFO: Multibranch (CapR_span300): mean=0.854, std=0.151, n=9298
+INFO: Multibranch (CapR_span400): mean=0.854, std=0.151, n=9298
+INFO: Multibranch (CapR_span500): mean=0.855, std=0.151, n=9298
+INFO: Multibranch (LinCapR_b100): mean=0.869, std=0.152, n=9298
+INFO: Multibranch (LinCapR_b200): mean=0.871, std=0.150, n=9298
+INFO: Multibranch (LinCapR_b300): mean=0.871, std=0.150, n=9298
+INFO: Multibranch (LinCapR_b400): mean=0.871, std=0.150, n=9298
+INFO: Multibranch (LinCapR_b500): mean=0.871, std=0.150, n=9298
+/work/02/gs58/s58007/LinCapR_Experiments/scripts/analysis/bpRNAanalysis/aucroc.py:408: MatplotlibDeprecationWarning: The 'labels' parameter of boxplot() has been renamed 'tick_labels' since Matplotlib 3.9; support for the old name will be dropped in 3.11.
+  bp = plt.boxplot(data_to_plot, labels=labels_to_plot, patch_artist=True)
+INFO: Saved boxplot: result/bprna/ROC_analysis/auc_boxplot_S_Stem.png
+INFO: Stem (CapR_span100): mean=0.798, std=0.146, n=24901
+INFO: Stem (CapR_span200): mean=0.810, std=0.138, n=24901
+INFO: Stem (CapR_span300): mean=0.811, std=0.138, n=24901
+INFO: Stem (CapR_span400): mean=0.811, std=0.138, n=24901
+INFO: Stem (CapR_span500): mean=0.811, std=0.138, n=24901
+INFO: Stem (LinCapR_b100): mean=0.813, std=0.142, n=24901
+INFO: Stem (LinCapR_b200): mean=0.813, std=0.142, n=24901
+INFO: Stem (LinCapR_b300): mean=0.813, std=0.142, n=24901
+INFO: Stem (LinCapR_b400): mean=0.813, std=0.142, n=24901
+INFO: Stem (LinCapR_b500): mean=0.813, std=0.142, n=24901
+INFO: ================================================================================
+INFO: Analysis completed!
+INFO: Results saved to: result/bprna/ROC_analysis
+INFO: JSON results: result/bprna/ROC_analysis/roc_auc_results.json
+INFO: AUC summary table: result/bprna/ROC_analysis/auc_summary_table.csv
+INFO: AUC boxplots: result/bprna/ROC_analysis/auc_boxplot_*.png
+INFO: ================================================================================
+
+AUC Summary Table:
+                      CapR_span100  CapR_span200  CapR_span300  CapR_span400  \
+Bulge                       0.751         0.765         0.767         0.767   
+Exterior                    0.931         0.939         0.940         0.940   
+Hairpin                     0.885         0.895         0.896         0.896   
+Internal                    0.760         0.773         0.774         0.774   
+Multibranch                 0.810         0.851         0.854         0.854   
+Stem                        0.798         0.810         0.811         0.811   
+Stem_LongRange_T150         0.586         0.694         0.720         0.731   
+Macro Average               0.844         0.856         0.857         0.857   
+
+                     CapR_span500  LinCapR_b100  LinCapR_b200  LinCapR_b300  \
+Bulge                       0.767         0.770         0.771         0.771   
+Exterior                    0.941         0.940         0.940         0.940   
+Hairpin                     0.897         0.896         0.896         0.896   
+Internal                    0.774         0.781         0.782         0.782   
+Multibranch                 0.855         0.869         0.871         0.871   
+Stem                        0.811         0.813         0.813         0.813   
+Stem_LongRange_T150         0.736         0.734         0.737         0.737   
+Macro Average               0.857         0.859         0.860         0.860   
+
+                     LinCapR_b400  LinCapR_b500  
+Bulge                       0.771         0.771  
+Exterior                    0.940         0.940  
+Hairpin                     0.896         0.896  
+Internal                    0.782         0.782  
+Multibranch                 0.871         0.871  
+Stem                        0.813         0.813  
+Stem_LongRange_T150         0.737         0.737  
+Macro Average               0.860         0.860  
+AUC analysis completed at: Fri Aug  8 22:20:56 JST 2025
+
+=== Result Summary ===
+AUC summary table created successfully
+First 10 lines of summary table:
+,CapR_span100,CapR_span200,CapR_span300,CapR_span400,CapR_span500,LinCapR_b100,LinCapR_b200,LinCapR_b300,LinCapR_b400,LinCapR_b500
+Bulge,0.751,0.765,0.767,0.767,0.767,0.770,0.771,0.771,0.771,0.771
+Exterior,0.931,0.939,0.940,0.940,0.941,0.940,0.940,0.940,0.940,0.940
+Hairpin,0.885,0.895,0.896,0.896,0.897,0.896,0.896,0.896,0.896,0.896
+Internal,0.760,0.773,0.774,0.774,0.774,0.781,0.782,0.782,0.782,0.782
+Multibranch,0.810,0.851,0.854,0.854,0.855,0.869,0.871,0.871,0.871,0.871
+Stem,0.798,0.810,0.811,0.811,0.811,0.813,0.813,0.813,0.813,0.813
+Stem_LongRange_T150,0.586,0.694,0.720,0.731,0.736,0.734,0.737,0.737,0.737,0.737
+Macro Average,0.844,0.856,0.857,0.857,0.857,0.859,0.860,0.860,0.860,0.860
+
+Output files:
+total 132680
+drwxr-s--- 2 s58007 gs58      4096 Aug  8 22:20 .
+drwxr-s--- 5 s58007 gs58      4096 Aug  8 22:11 ..
+-rw-r----- 1 s58007 gs58    206114 Aug  8 22:20 auc_boxplot_B_Bulge.png
+-rw-r----- 1 s58007 gs58    331382 Aug  8 22:20 auc_boxplot_E_Exterior.png
+-rw-r----- 1 s58007 gs58    300269 Aug  8 22:20 auc_boxplot_H_Hairpin.png
+-rw-r----- 1 s58007 gs58    225606 Aug  8 22:20 auc_boxplot_I_Internal.png
+-rw-r----- 1 s58007 gs58    308911 Aug  8 22:20 auc_boxplot_M_Multibranch.png
+-rw-r----- 1 s58007 gs58    243992 Aug  8 22:20 auc_boxplot_S_Stem.png
+-rw-r----- 1 s58007 gs58       694 Aug  8 22:20 auc_summary_table.csv
+-rw-r----- 1 s58007 gs58 137858325 Aug  8 22:20 roc_auc_results.json
+Job completed at: Fri Aug  8 22:20:56 JST 2025

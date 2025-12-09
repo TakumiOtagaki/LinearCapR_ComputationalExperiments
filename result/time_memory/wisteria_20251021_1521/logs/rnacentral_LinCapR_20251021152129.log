@@ -1,0 +1,5 @@
+[2025-10-21 15:21:29] dataset=rnacentral mode=LinCapR beam=200
+Running: /work/gs58/s58007/LinCapR_Experiments/LinearCapR/LinCapR {fasta} /dev/null 200 --energy turner2004
+[progress] 20/20 (100.0%) completed
+[2025-10-21 17:14:22] dataset=rnacentral mode=LinCapR beam=500
+Running: /work/gs58/s58007/LinCapR_Experiments/LinearCapR/LinCapR {fasta} /dev/null 500 --energy turner2004

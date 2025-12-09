@@ -1,0 +1,15 @@
+Running: /work/gs58/s58007/app/anaconda3/envs/lincapr/bin/python /work/gs58/s58007/LinCapR_Experiments/scripts/analysis/sarscov2_ensemble_energy.py --fasta /work/gs58/s58007/LinCapR_Experiments/data/processed/sarscov2/NC_045512.RNA.fa --beams 50 100 200 300 400 500 --energy-models turner2004 turner1999 --output-dir /work/gs58/s58007/LinCapR_Experiments/result/sarscov2/ensemble_energy/default
+beam= 50 energy_model=turner2004: G_ensemble=-8732.7000
+beam=100 energy_model=turner2004: G_ensemble=-8949.7000
+beam=200 energy_model=turner2004: G_ensemble=-9101.7200
+beam=300 energy_model=turner2004: G_ensemble=-9140.9700
+beam=400 energy_model=turner2004: G_ensemble=-9199.3400
+beam=500 energy_model=turner2004: G_ensemble=-9201.3800
+beam= 50 energy_model=turner1999: G_ensemble=-9242.5400
+beam=100 energy_model=turner1999: G_ensemble=-9512.8800
+beam=200 energy_model=turner1999: G_ensemble=-9659.7900
+beam=300 energy_model=turner1999: G_ensemble=-9685.8200
+beam=400 energy_model=turner1999: G_ensemble=-9774.0100
+beam=500 energy_model=turner1999: G_ensemble=-9808.9300
+Saved data to /work/gs58/s58007/LinCapR_Experiments/result/sarscov2/ensemble_energy/default/ensemble_energy.csv
+Saved plot to /work/gs58/s58007/LinCapR_Experiments/result/sarscov2/ensemble_energy/default/ensemble_energy_vs_beam.png

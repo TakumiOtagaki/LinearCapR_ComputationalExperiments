@@ -1,0 +1,5 @@
+[2025-10-21 16:24:06] dataset=rnacentral mode=CapR beam=200
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 200
+[progress] 20/20 (100.0%) completed
+[2025-10-21 18:09:23] dataset=rnacentral mode=CapR beam=500
+Running: /work/gs58/s58007/LinCapR_Experiments/CapR/CapR {fasta} /dev/null 500
